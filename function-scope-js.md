@@ -65,4 +65,5 @@ soloNumeros(input), Despues de crearlas.
 >* Función soloNumeros()
 >* Función longitud() vinculadas al evento *input*.
 
-
+* AUTOR:  
+https://github.com/MarinaRH
