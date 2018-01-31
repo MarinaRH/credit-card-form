@@ -1,4 +1,8 @@
-# FUNCTION Y SCOPE
+# FUNCIONES Y SCOPE
+
+## OBJETIVO 
+
+> Leer el código javascript de  y aprender a identificar las funciones globales, locales, funciones de callback, expresions, statement, clousure, scope, contextos de ejecucion, que funciones forman parte de la pila de ejecucion (stack execution) y que funciones forman parte de la cola de eventos (event queue) y de esta manera poder enriquecer nuestro léxico técnico como frontend.
 
 ## FUNCIONES GLOBALES
 * Son las funciones que *no se encuentran dentro de otra funcion*:
@@ -55,7 +59,7 @@ soloNumeros(input), Despues de crearlas.
 ```
 
 ## EVENTO QUEUE
-* Funciones que forman parte de la cola de eventos.
+* Funciones que forman parte de la cola de eventos en el *contexto de ejecucion*.
 
 >* Función isValidCreditCard()
 >* Función soloNumeros()
